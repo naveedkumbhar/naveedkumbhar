@@ -1,29 +1,29 @@
 <div align="center" width="50">
-<!-- <img src="https://github.com/shoaibkorai/shoaibkorai/assets/assets/images/banner.jpeg"> -->
+<!-- <img src="https://github.com/naveedkumbhar/naveedkumbhar/assets/assets/images/banner.jpeg"> -->
 <img src="./assets/images/banner.jpeg">
   
-<!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
-<!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/images/banner.jpeg) -->
+<!-- ![image (1)](https://github.com/naveedkumbhar/naveedkumbhar/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
+<!-- ![image (1)](https://github.com/naveedkumbhar/naveedkumbhar/assets/images/banner.jpeg) -->
   
 <div align="center">
 
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe"> --->
 	
-![](https://komarev.com/ghpvc/?username=shoaibkorai&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=naveedkumbhar&color=blueviolet&label=Profile+Views)
 	
 
 
 <!--- social media icons, you can find them in assets directory of this repo --->
-<!-- <a href="https://shoaibkorai">
+<!-- <a href="https://naveedkumbhar">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>   -->
-<a href="https://www.linkedin.com/in/shoaibkorai/">
+<a href="https://www.linkedin.com/in/naveedkumbhar/">
   <img height="60" alt="Shoaib Korai | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
-<a href="https://www.instagram.com/realshoaibkorai">
+<a href="https://www.instagram.com/realnaveedkumbhar">
   <img height="60" alt="Shoaib Korai | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
-<a href="https://twitter.com/realshoaibkorai_">
+<a href="https://twitter.com/realnaveedkumbhar_">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
 </a> 
 <a href="https://stackoverflow.com/users/15750590/rashid-wassan">
@@ -82,8 +82,8 @@ I often come up with implementing my own ideas and using my own DevOps solutions
 --->
 <hr>
 <p align="center">
-  <img width="400px" height="300" src="https://github-readme-stats.vercel.app/api?username=shoaibkorai&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="400px" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkorai&theme=radical&hide_border=true" />
+  <img width="400px" height="300" src="https://github-readme-stats.vercel.app/api?username=naveedkumbhar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="400px" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=naveedkumbhar&theme=radical&hide_border=true" />
 </p>
 
  
