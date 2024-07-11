@@ -62,18 +62,7 @@
 </h1>
   
 <p><p/>	
-As a DevOps Engineer at  Sign-DevOps, I design and implement automation infrastructure & CI\CD pipelines that optimize the deployment processes for enterprise insurance solutions for the European Market to save tonnes of valuable organizational resources. 
-
-Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, guiding students & professionals.
-
-My Skillset:
-◆ Python, Java, Dart , bash
-◆ AWS Cloud & ORACLE Cloud
-◆ Docker, Kubernetes,
-◆ GitHub Actions  Jenkins (CI/CD)
-◆ GNU Linux, Namespaces & Containerization
-◆ Microservices Architecture and Best Practices
-
+As a highly skilled DevOps engineer with 8 years of experience in DevOps, I bring a strong background in CI/CD practices, DevOps tools, and automation. My results-driven approach and excellent analytical, technical, and interpersonal skills have enabled me to excel in developing, testing, deploying, and maintaining robust infrastructure systems. With extensive experience across numerous software packages and operating systems, I am adept at providing seamless customer and end-user support while swiftly identifying and resolving technical issues.
 I often come up with implementing my own ideas and using my own DevOps solutions to increase productivity.
 
 <div><div/>
