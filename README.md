@@ -1,5 +1,5 @@
 <div align="center" width="50">
-  <img src="https://naveedkumbhar.com/assets/banner_naveed.png" alt="Banner">
+  <img src="https://naveedkumbhar.com/assets/banner_naveed_bg_black.png" alt="Banner">
 
   ![Profile Views](https://komarev.com/ghpvc/?username=naveedkumbhar&color=blueviolet&label=Profile+Views)
 
