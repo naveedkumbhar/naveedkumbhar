@@ -1,6 +1,6 @@
 <div align="center" width="50">
 <!-- <img src="https://naveedkumbhar.com/assets/banner_naveed.png"> -->
-<img src="./assets/naveed_banner.jpeg">
+<img src="https://naveedkumbhar.com/assets/banner_naveed.png">
   
 <!-- ![image (1)](https://github.com/naveedkumbhar/naveedkumbhar/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
 <!-- ![image (1)](https://naveedkumbhar.com/assets/banner_naveed.png) -->
