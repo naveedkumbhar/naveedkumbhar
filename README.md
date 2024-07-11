@@ -66,7 +66,15 @@ As a highly skilled DevOps engineer with 8 years of experience in DevOps, I brin
 I often come up with implementing my own ideas and using my own DevOps solutions to increase productivity.
 
 
-Test
+Technical Expertise
+
+* CI/CD & Automation: Expertise in implementing CI/CD pipelines using tools like Jenkins, GitLab CI, and CircleCI to ensure smooth and automated software delivery processes.
+* Configuration Management: Proficient in Ansible and Vagrant for managing and automating infrastructure provisioning and configuration.
+* Containerization: Extensive experience with Docker for creating, deploying, and managing containerized applications.
+* Cloud Platforms: Deep knowledge of AWS (EC2, VPC, Elastic Load Balancing, Auto Scaling, Route 53, CloudFront, S3, RDS, CloudWatch) and Google Cloud for deploying and managing scalable cloud infrastructure.
+* Linux Administration: Advanced skills in configuring, deploying, and troubleshooting Linux servers and related services (DNS, SMTP, DHCP, FTP, LDAP, Apache, Nginx, MySQL, Varnish, PHP-FPM).
+* Scripting & Automation: Proficient in Bash scripting, Python and Ruby with automation to streamline operations and enhance efficiency.
+* Monitoring & Logging: Implementing monitoring solutions to ensure system reliability and performance.
 
 <div><div/>
 <!--- adding 3D earth icon to show some love for the environment 🌏 
