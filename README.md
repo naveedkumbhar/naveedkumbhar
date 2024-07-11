@@ -14,7 +14,7 @@
 
 
 <!--- social media icons, you can find them in assets directory of this repo --->
-<!-- <a href="https://naveedkumbhar">
+<!-- <a href="https://naveedkumbhar.com/">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>   -->
 <a href="https://www.linkedin.com/in/naveedkumbhar/">
