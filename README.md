@@ -81,7 +81,7 @@ Technical Expertise
 <img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" />
 --->
 <hr>
-<p align="center">
+<p align="right">
   <img width="400px" height="300" src="https://github-readme-stats.vercel.app/api?username=naveedkumbhar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="400px" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=naveedkumbhar&theme=radical&hide_border=true" />
 </p>
