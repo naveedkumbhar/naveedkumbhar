@@ -41,6 +41,23 @@ I often come up with implementing my own ideas and using my own DevOps solutions
 * **Scripting & Automation**: Proficient in Bash scripting, Python, and Ruby with automation to streamline operations and enhance efficiency.
 * **Monitoring & Logging**: Implementing monitoring solutions to ensure system reliability and performance.
 
+<h2 align="center">
+  Certifications
+</h2>
+
+* **Red Hat Certified System Administrator**
+* **AWS Certified Solutions Architect**
+
+<h2 align="center">
+  Specialties
+</h2>
+
+* **DevOps Practices**: Designing and implementing robust CI/CD pipelines to automate the software delivery lifecycle.
+* **Cloud Infrastructure**: Managing and optimizing cloud infrastructure to support high-availability and fault-tolerant applications.
+* **Automation & Orchestration**: Automating repetitive tasks and orchestrating complex workflows to improve operational efficiency and reduce human error.
+* **Self-Healing Systems**: Building and maintaining self-healing systems to ensure high availability and minimal downtime.
+* **Strategic Planning & Problem Solving**: Developing strategic plans for infrastructure growth and effectively solving complex technical challenges.
+
 <hr>
 
 <div align="right">
