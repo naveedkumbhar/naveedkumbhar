@@ -1,9 +1,9 @@
 <div align="center" width="50">
-<!-- <img src="https://github.com/naveedkumbhar/naveedkumbhar/assets/assets/images/banner.jpeg"> -->
+<!-- <img src="https://naveedkumbhar.com/assets/banner_naveed.png"> -->
 <img src="./assets/images/banner.jpeg">
   
 <!-- ![image (1)](https://github.com/naveedkumbhar/naveedkumbhar/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
-<!-- ![image (1)](https://github.com/naveedkumbhar/naveedkumbhar/assets/images/banner.jpeg) -->
+<!-- ![image (1)](https://naveedkumbhar.com/assets/banner_naveed.png) -->
   
 <div align="center">
 
@@ -20,16 +20,16 @@
 <a href="https://www.linkedin.com/in/naveedkumbhar/">
   <img height="60" alt="Shoaib Korai | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
-<a href="https://www.instagram.com/realnaveedkumbhar">
+<a href="https://www.instagram.com/naveedkumbhar">
   <img height="60" alt="Shoaib Korai | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
-<a href="https://twitter.com/realnaveedkumbhar_">
+<a href="https://twitter.com/naveedkumbhar">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
 </a> 
-<a href="https://stackoverflow.com/users/15750590/rashid-wassan">
-  <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" />
+<a href="https://stackoverflow.com/users/18362045/naveed-ahmed">
+  <img height="60" alt="Naveed Ahmed | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" />
 </a>
-<!-- <a href="https://www.youtube.com/c/shoaibkoa">
+<!-- <a href="https://www.youtube.com/c/naveedkumbhar">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852551-b848aea3-9d04-435a-9e1d-260f1c5d8942.png" />
 <a href="https://dev.to/rashidwassan">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" />
