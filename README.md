@@ -68,7 +68,7 @@ I often come up with implementing my own ideas and using my own DevOps solutions
 -->
 
 <p align="center">
-  <img width="370px" src="https://github-readme-stats.vercel.app/api?username=naveedkumbhar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="368px" src="https://github-readme-stats.vercel.app/api?username=naveedkumbhar&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="400px"   src="https://github-readme-streak-stats.herokuapp.com/?user=naveedkumbhar&theme=radical&hide_border=true" />
 
 </p>
