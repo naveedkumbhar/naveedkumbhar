@@ -1,6 +1,3 @@
-# $ whoami
-# naveedkumbhar@devops
-
 <div align="center" width="50">
   <img src="https://naveedkumbhar.com/assets/banner_naveed_bg_black.png" alt="Banner">
 
