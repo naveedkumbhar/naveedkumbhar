@@ -56,7 +56,7 @@ I often come up with implementing my own ideas and using my own DevOps solutions
 * **Cloud Infrastructure**: Managing and optimizing cloud infrastructure to support high-availability and fault-tolerant applications.
 * **Automation & Orchestration**: Automating repetitive tasks and orchestrating complex workflows to improve operational efficiency and reduce human error.
 * **Self-Healing Systems**: Building and maintaining self-healing systems to ensure high availability and minimal downtime.
-* **Strategic Planning & Problem Solving**: Developing strategic plans for infrastructure growth and effectively solving complex technical challenges.
+* **Strategic Planning & Problem Solving**: Developing strategic plans for infrastructure growth and effectively solving complex technical challenges..
 
 <hr>
 
